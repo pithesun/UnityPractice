@@ -13,4 +13,6 @@ EditorBuildSettings:
     guid: 465100cc961b7ab4387dd62b3e2aefd3
   m_configObjects:
     com.unity.xr.arcore.PlayerSettings: {fileID: 11400000, guid: 87574267beedbf545be1e9b0eba8905a, type: 2}
+    com.unity.xr.arkit.PlayerSettings: {fileID: 11400000, guid: 20567baa39f774f4db7c52c14b793b53, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 2fd275195d3d18b409204484c1874461, type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: 8be19807cda7b5549b1ff664138c26e8, type: 2}
